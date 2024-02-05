@@ -1,0 +1,32 @@
+:root {
+  --container-width: 1200px;
+  --container-padding: 15px;
+
+  --font-main: "Noto Sans", sans-serif;
+
+  --white: #fff;
+  --blue-gradient: linear-gradient(to bottom, #123, #111);
+  --black: #000;
+  --caribbean-green: #1CD3A2;
+  --fiery: #F8173E;
+  --jade: #00A86B;
+
+  --page-bg: var(--blue-gradient);
+  --text-color: var(--white);
+
+  --welcome-cover-btn-color: var(--black);
+  --welcome-cover-btn-color-hover: var(--white);
+  --welcome-cover-btn-bg: var(--white);
+  --welcome-cover-btn-bg-hover: var(--caribbean-green);
+
+  --answers-hover: var(--caribbean-green);
+  --answers-not-selected: var(--fiery);
+
+  --submit-bg: var(--caribbean-green);
+  --submit-bg-hover: var(--jade);
+
+
+  --laptop-size: 1199px;
+  --tablet-size: 959px;
+  --mobile-size: 599px;
+}
